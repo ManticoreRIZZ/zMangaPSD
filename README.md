@@ -1,1 +1,2 @@
-# psd
+# Eng releases
+# Uploaded to MangaDex.org
