@@ -1,2 +1,2 @@
 # Eng releases at MangaDex.org
-## .psd files of series that I work on alone
+# .psd files of series I work (almost) alone on
